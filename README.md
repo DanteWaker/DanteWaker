@@ -22,10 +22,29 @@
 [<img align="left" alt="DanteWaker | Discord" width="40px" src="https://i.imgur.com/ejzlefv.gif" />][discord]
 
 <br />
+<br />
+<br />
 
----
+## &#x1f4c8; GitHub Stats 
 
+<br />
+<br />
 
+<div align="center">
+<a href="https://github.com/DanteWaker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteWaker&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+<a href="https://github.com/DanteWaker">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteWaker&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Dantes's GitHub Stats" />
+</a>
+</div>
+  
 
 
 [instagram]: https://www.instagram.com/denner.jd/
