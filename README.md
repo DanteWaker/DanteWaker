@@ -40,7 +40,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLiny&logoColor=ffffff)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=ffffff)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
