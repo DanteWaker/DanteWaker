@@ -58,16 +58,9 @@
 
 <div align="center">
 <a href="https://github.com/DanteWaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteWaker&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-</div>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteWaker&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 
-<br />
-<br />
-
-<div align="center">
-<a href="https://github.com/DanteWaker">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteWaker&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Dantes's GitHub Stats" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanteWaker&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Dantes's GitHub Stats" />
 </a>
 </div>
 
