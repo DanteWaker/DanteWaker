@@ -72,14 +72,12 @@
 [<img align="left" alt="DanteWaker | LinkedIn" width="35px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
 [<img align="left" alt="DanteWaker | Instagram" width="40px" src="https://i.imgur.com/Fm8uHXn.gif" />][instagram]
 [<img align="left" alt="DanteWaker | Twitter" width="40px" src="https://i.imgur.com/Yfn4ldF.gif" />][twitter]
-[<img align="left" alt="DanteWaker | Discord" width="40px" src="https://i.imgur.com/ejzlefv.gif" />][discord]
   
 
 
 [instagram]: https://www.instagram.com/denner.jd/
 [linkedin]: https://www.linkedin.com/in/josedenner/
 [twitter]: https://twitter.com/Dante_Waker/
-[discord]: https://discordapp.com/users/DanteWaker#4258
 [gmail]: josedenner.na@gmail.com
 
 
