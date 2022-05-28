@@ -1,6 +1,6 @@
 ### Hey, what's up? 👋
 
-## I'm a web developer and Computer Science student pt
+## I'm a web developer and Computer Science student
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
 
