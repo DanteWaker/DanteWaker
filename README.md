@@ -32,7 +32,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)
 ![Djangorestframework](https://img.shields.io/badge/-Django&nbsp;REST&nbsp;Framework-8C1111?style=flat-square&logo=Django-rest-framework&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 
 #### Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
