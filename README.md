@@ -55,7 +55,7 @@
 
 <!-- ## &#x1f4c8; GitHub Stats <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DanteWaker&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> -->
 
-<br />
+<!-- <br />
 
 <div align="center">
 <a href="https://github.com/DanteWaker">
@@ -65,7 +65,7 @@
 </a>
 </div>
 
-<br />
+<br /> -->
 <br />
 
 ### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
