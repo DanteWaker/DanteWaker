@@ -53,7 +53,7 @@
 
 
 
-## &#x1f4c8; GitHub Stats <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DanteWaker&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<!-- ## &#x1f4c8; GitHub Stats <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DanteWaker&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> -->
 
 <br />
 
