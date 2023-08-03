@@ -7,7 +7,6 @@
 - 👨‍💻 Currently working with React.js, using Typescript as my main "language",and working with technologies involving REACT 😋
 - 📚 I'm always studying to improve my skills, especially with Frontend 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ I love video games and anime 😍
 
 <br />
 
