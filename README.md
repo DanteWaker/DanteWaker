@@ -17,24 +17,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
 
-
-
-
-## &#x1f4c8; GitHub Stats <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DanteWaker&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> 
-<br />
-
-<div align="center">
-<a href="https://github.com/DanteWaker">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteWaker&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanteWaker&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Dantes's GitHub Stats" />
-</a>
-</div>
-
-<br />
-<br />
-
-
 Contact me: [<img align="left" alt="DanteWaker | LinkedIn" width="40px" height="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
   
 
