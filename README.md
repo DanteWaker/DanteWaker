@@ -6,8 +6,6 @@
 - 📚 Always studying to level up, focused on Frontend.
 - 💪🏼 Aiming to learn more technologies and keep coming up with new ideas.
 
-<br />
-
 #### Hard Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
@@ -17,9 +15,9 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
 
-Contact me: [<img align="left" alt="DanteWaker | LinkedIn" width="40px" height="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
+Contact me: 
+[<img align="left" alt="DanteWaker | LinkedIn" width="40px" height="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
   
-
 
 [linkedin]: https://www.linkedin.com/in/josedenner/
 
