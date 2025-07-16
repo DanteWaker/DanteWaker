@@ -15,7 +15,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
 
-Contact me: 
+### Contact me: 
 [<img align="left" alt="DanteWaker | LinkedIn" width="40px" height="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
   
 
